@@ -34,10 +34,10 @@ bot.onText(/\/removekeyword (.+)/, (msg, match) => {
 bot.onText(/\/listkeyword/, (msg) => {
     const chatId = msg.chat.id;
     const resp = listkeywords.join("\n");
-    console.log(`add keyword: ${resp}`);
+    console.log(`list keyword:\n${resp}`);
     bot.sendMessage(chatId, `list of keywords: \n${resp}`);
 });
-// bot keyborad
+// bot keyboard
 bot.onText(/\/keyboard/, (msg) => {
     const chatId = msg.chat.id;
     const resp = {
