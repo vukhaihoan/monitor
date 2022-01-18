@@ -1,0 +1,1712 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "RYYtU5x8ItJBrplDlDjRshIU_qc",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "VN",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eRICtGr00myPkU33cHDqXn4k6mo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_UpAbnR2hiI"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-03T15:54:47Z",
+                "channelId": "UCOaMiHRdE0MWhxScD9-cS0g",
+                "title": "Hướng dẫn tham gia airdrop &amp; suất IDO token DRAW mạng SOl, dự án Dragon War",
+                "description": "Link đăng kí: https://tinyurl.com/2p88awyv Join vào các nhóm tele ở bên dưới để cập nhập nhanh nhất nhé   kéo xuống .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_UpAbnR2hiI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_UpAbnR2hiI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_UpAbnR2hiI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NL Crypto",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-03T15:54:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9xd0sswiy_poEdSUYEm-Tb8QGnY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gnTvg3HkihQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-03T13:37:30Z",
+                "channelId": "UCyE5gjyB9HSLst3K3MGAM5w",
+                "title": "hướng dẫn tham gia whitelist Valhalla Ido trên A2DAO (Token phân phối miễn phí cho ví win) kèo 1000$",
+                "description": "Link ĐK dưới phần bình luận nhé ae Link channo Admin https://t.me/+gz0887FK16k5YTBl.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gnTvg3HkihQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gnTvg3HkihQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gnTvg3HkihQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "☀️NgocAnh MMO🔥",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-03T13:37:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "K6DmUNWd5v5eUSiegYal2vVtFqA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QZwL3Lvi38c"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-03T07:08:21Z",
+                "channelId": "UCRM20LhTwPJnXh8KQMuhHTA",
+                "title": "Update IDO dự án AlexGo.btc : Cách đổi vé IDO và nạp STX",
+                "description": "Chúc mừng những bạn đã tham gia testnet dự án AlexGo.btc và kiếm được t-alex để đổi vé ido , các bạn vui lòng làm theo hướng ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QZwL3Lvi38c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QZwL3Lvi38c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QZwL3Lvi38c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crypto Apple",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-03T07:08:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8zxGjUUhLwG_va-YUlTiPW-rvw4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "brtC608xu4k"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-02T12:26:27Z",
+                "channelId": "UCxAPKN6RdTAYXqYsu-XhL6A",
+                "title": "Đăng Ký Whitelist Mua IDO Vòng Private Dự Án Crypto Rocket Launch Hạn 07/01/2022",
+                "description": "Link đăng ký Whitelist tham gia IDO dự án Crypto Rocket Launch: https://wn.nr/YM6Z58 Social Cakes Community: Website: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/brtC608xu4k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/brtC608xu4k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/brtC608xu4k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cakes Ventures",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-02T12:26:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lZZmiYjZ_RzzSCBmeWCSbBCavjM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lkxP41QeDTI"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-02T12:17:35Z",
+                "channelId": "UCxAPKN6RdTAYXqYsu-XhL6A",
+                "title": "Đăng Ký Whitelist Mua IDO Vòng Private Dự Án Lunaverse.io Hạn 13/01/2022",
+                "description": "Link đăng ký Whitelist tham gia IDO dự án Lunaverse.io: https://sweepwidget.com/view/43985-z1mwli03/uusoe7-43985 Social ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lkxP41QeDTI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lkxP41QeDTI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lkxP41QeDTI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cakes Ventures",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-02T12:17:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vci7NnYCji0-9bmLWpU3U-cc3HU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "15jGo4Z4zNk"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-02T12:00:12Z",
+                "channelId": "UCorvHjWqR1k_GGOrrzaoSBw",
+                "title": "đầu năm tham gia 4 kèo IDO WHITELIST có cơ hội đổi đời liệu bạn là người may mắn",
+                "description": "chào mừng các bạn đến với kênh game 5g crypto. chuyên chia sẻ cho các bạn những kèo airdrop + săn kèo ido mới nhất 2021 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/15jGo4Z4zNk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/15jGo4Z4zNk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/15jGo4Z4zNk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Game 5G Crypto",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-02T12:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JveUJ_wnxUOuqJJxNmm94n7qHWk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "t70YZ1hD-6g"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-01T14:37:44Z",
+                "channelId": "UCPV0rsqy62eM2oSDPxKSSdQ",
+                "title": "Tham Gia Cuộc thi giao dịch Spot Sàn Mexc PK Ăn Chia 90.000 Usdt",
+                "description": "Link PK; https://www.mexc.fans/1dqj4 ❤Link Sàn; https://m.mexc.com/auth/signup?inviteCode=1DQj4 ❤telegarm mexc; ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t70YZ1hD-6g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t70YZ1hD-6g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t70YZ1hD-6g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BTC-SATOSHI",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-01T14:37:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Vo6uBMn7xEmB7n3Q9ThKppvq9Q0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qAMQx5rCuu8"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-31T13:30:12Z",
+                "channelId": "UC2KddoIUcH-z8FSb-YjDfCA",
+                "title": "#2 [LaunchPad] Redkite - Hướng Dẫn Tham Gia IDO Whitelist Trên Nền Tảng Redkite",
+                "description": "2 [LaunchPad] Redkite - Hướng Dẫn Tham Gia IDO Whitelist Trên Nền Tảng Redkite -Website: https://redkite.polkafoundry.com/ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qAMQx5rCuu8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qAMQx5rCuu8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qAMQx5rCuu8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hinh Smile",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-31T13:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "29FlGE9GYgNGj6G1LoXFHqpAfMc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SsqlkMFKojI"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-31T05:00:11Z",
+                "channelId": "UC2KddoIUcH-z8FSb-YjDfCA",
+                "title": "#1 [LaunchPad] Solanium - Hướng Dẫn Tham Gia IDO Whitelist Trên Nền Tảng Solanium",
+                "description": "1 [LaunchPad] Solanium - Hướng Dẫn Tham Gia IDO Whitelist Trên Nền Tảng Solanium -Website: https://www.solanium.io/ -Pool: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SsqlkMFKojI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SsqlkMFKojI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SsqlkMFKojI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hinh Smile",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-31T05:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "shBU7DSJBzjKX5duGqZKNyEvlhA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Sl8orb_S7_Q"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-30T18:50:44Z",
+                "channelId": "UCRCmKjfDx_s4aRyQKtMfpPA",
+                "title": "Airdrop và IDO Kèo Ngon PCR (Paycer Protocol) mạng Polygon ! Dự x 50",
+                "description": "Admin gửi anh em kèo ra chiều nay, vừa Airdrop và IDO Kèo Ngon ! PCR (Paycer Protocol) mạng Polygon Giá IDO: $ 0055.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Sl8orb_S7_Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Sl8orb_S7_Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Sl8orb_S7_Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Đào Tiền Ảo No Scam",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-30T18:50:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kYi29ZQQGqm8XY_QJMKyu1gnQrc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KATS2igGuMo"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-30T15:58:35Z",
+                "channelId": "UCXPVW_8DVz_TD9kGoQ_odOw",
+                "title": "Hướng dẫn tham gia mua IDO DOTPAD của hệ sinh thái Polkadot  Dự án chắc chắn X1000 lần giá mua IDO",
+                "description": "New IDO DOTPAD của nền tảng Polkadot x1000   - IDO cuối cùng của chuỗi nền tảng các Atlcoin top: gồm có BSCPAD, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KATS2igGuMo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KATS2igGuMo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KATS2igGuMo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BSC TOKEN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-30T15:58:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OKKPf-HpiQtVpA-_oFkycWpUZyM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8PLFiveMYp0"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-30T15:00:51Z",
+                "channelId": "UC6pjqaFl8tLMUjeDpaaBMtQ",
+                "title": "🔥 LÀM GẤP!! KÈO IDO &quot;KREATION&quot; || DỰ ÁN NFT  BÓNG ĐÁ CỦA CẦU THỦ VÔ ĐỊCH EURO 2020|| X10-20 💵",
+                "description": "Link tham gia ngay: https://solanium.io/project/kreation/?ref=273OddeQ Nhóm: @kenhtrading Đầu tư IDO/IEO: @dautu369 Liên ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8PLFiveMYp0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8PLFiveMYp0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8PLFiveMYp0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhẫn Giả IDO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-30T15:00:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xIKFTIR3PmAQ9O66ISogi_4pp7A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LbmaZqeb1tU"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-30T12:30:12Z",
+                "channelId": "UCorvHjWqR1k_GGOrrzaoSBw",
+                "title": "kèo cực thơm uy tín tham gia nhận 10$+3$ Animverse token airrdrop mới nhất hôm nay",
+                "description": "chào mừng các bạn đến với kênh game 5g crypto. chuyên chia sẻ cho các bạn những kèo airdrop + săn kèo ido mới nhất 2021 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LbmaZqeb1tU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LbmaZqeb1tU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LbmaZqeb1tU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Game 5G Crypto",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-30T12:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pphDpPNAIP6-ceVBOI-rRLwsFLw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "c9_W6yPuzGw"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-29T13:00:31Z",
+                "channelId": "UCqjIbZOO2OsSP8BkwyycI0Q",
+                "title": "T202 - Bit điều chỉnh xong chưa? tham gia launchpad Bybit dự án Kasta tương tự Celo",
+                "description": "Mở tài khoản bybit theo link ref của Tcoin để được ưu đãi phí giao dịch: https://partner.bybit.com/b/Tcoin101 ☑️ Phí giao dịch ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c9_W6yPuzGw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c9_W6yPuzGw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c9_W6yPuzGw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TCoin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-29T13:00:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pRRz_ntIebSWQPoB7fdSBYE2Imw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HbITp3q8mb0"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-29T11:56:28Z",
+                "channelId": "UCorvHjWqR1k_GGOrrzaoSBw",
+                "title": "kèo ăn chắc tham gia nhận 20$ Flag Network token airdrop mới nhất hôm nay",
+                "description": "chào mừng các bạn đến với kênh game 5g crypto. chuyên chia sẻ cho các bạn những kèo airdrop + săn kèo ido mới nhất 2021 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HbITp3q8mb0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HbITp3q8mb0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HbITp3q8mb0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Game 5G Crypto",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-29T11:56:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fqCuwOI_R1X5hwQRJpV3KkMk-jA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7OezAJnRpJs"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-29T09:57:49Z",
+                "channelId": "UC3Fieh5doNXaf4kJ23tayMA",
+                "title": "THAM GIA IDO CƠ HỘI X100 X1000 TÀI KHOẢN? - TIPS CRYPTO",
+                "description": "Một số nền tảng IDO uy tín, cùng Tips Crypto tìm hiểu ở video này nhé. Ido là gì thì có thể đề cập đến một dự án phát hành ra một ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7OezAJnRpJs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7OezAJnRpJs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7OezAJnRpJs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TIPS CRYPTO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-29T09:57:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "r0El2zRyivEgWwsYw42d5Ku4ihs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wjOAZOg9AfA"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-29T07:31:06Z",
+                "channelId": "UCPV0rsqy62eM2oSDPxKSSdQ",
+                "title": "Tham Gia NV Ăn Chia 120.000$ Token LINA Trên Sàn Binance",
+                "description": "Link Sàn; https://accounts.binance.com/vi/register?ref=44935566 ❤ĐK NV; https://bom.so/AXLYJ7 ❤Tham Gia NV Ăn Chia ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wjOAZOg9AfA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wjOAZOg9AfA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wjOAZOg9AfA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BTC-SATOSHI",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-29T07:31:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kh2oJvUJkDIgDImbJDZ3H7PUl4E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "62Nn1lW2hhA"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-29T00:45:11Z",
+                "channelId": "UCTwTUdWk1F0_ez8dCy7xL8Q",
+                "title": "NSG - những khúc mắc dễ gặp khi tham gia IDO trên Enjinstarter",
+                "description": "NSG #Enjinstarter Chia sẽ lỗi dể gặp phải khi tham gia.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/62Nn1lW2hhA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/62Nn1lW2hhA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/62Nn1lW2hhA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NSG TÀI CHÍNH",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-29T00:45:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SxXtEquFvwJ_0o6Hbf8aQOm3Lns",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jnP7UhCOHaM"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-28T14:48:56Z",
+                "channelId": "UCorvHjWqR1k_GGOrrzaoSBw",
+                "title": "kèo ngon tham gia nhận SKOL Token airdrop mới nhất hôm nay",
+                "description": "chào mừng các bạn đến với kênh game 5g crypto. chuyên chia sẻ cho các bạn những kèo airdrop + săn kèo ido mới nhất 2021 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jnP7UhCOHaM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jnP7UhCOHaM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jnP7UhCOHaM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Game 5G Crypto",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-28T14:48:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Qx_R2LE9uevPhueY7JjDz6DwvL8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "haEv-Byje6c"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-28T09:10:05Z",
+                "channelId": "UCiqY0WWVWLjYuBLpi5a6Hpw",
+                "title": "Update -Whitelist IDO Game GALAXYWAR - Hướng Dẫn Mua Trên LaunchZone",
+                "description": "GalaxyWar #Launchzone #Metaverse Clip Cũ : https://youtu.be/UQrtIwcDwRE 1. Check danh sách ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/haEv-Byje6c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/haEv-Byje6c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/haEv-Byje6c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "FreeDom Gruop ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-28T09:10:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TXB_81e3HRMVGhi4m4KuZP6BKp0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tkvPobaS6bU"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-28T07:15:31Z",
+                "channelId": "UCx5gShqyVTKE6scn2dcxGnw",
+                "title": "Cách Tham Gia IDO Mretakings Game Mua Sớm MTK Token - Đầu Tư 120K Kiếm 6 Triệu",
+                "description": "Cách Tham Gia IDO Mretakings Game Mua Sớm MTK Token - Đầu Tư 120K Kiếm 6 Triệu Tham gia Airdrop: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tkvPobaS6bU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tkvPobaS6bU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tkvPobaS6bU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Affiliate Marketing Việt Nam",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-28T07:15:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "r_guxJtLEJ1mQ1ZjdXK3dF-5jt8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mS20BPnUtZs"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-28T02:54:46Z",
+                "channelId": "UC72x9WELgEKYB3UHTYgvNaw",
+                "title": "Hướng dẫn tham gia whitelist dự án Solice tranh vé mua IDO ( solana ) kèo x50",
+                "description": "solice #whitelistsolice #solanium link đăng ký https://solanium.io/project/solice/?ref=rIAgqFPG video hướng dẫn ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mS20BPnUtZs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mS20BPnUtZs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mS20BPnUtZs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kiếm Tiền Free",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-28T02:54:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6PkTDaP6rn-wppSGYTpR2MmMxMk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "X-EItWsCcrA"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-27T23:23:54Z",
+                "channelId": "UCEyF_q8XCcTD3T0zBOE9mzg",
+                "title": "Kèo airdrop hot cực kỳ tiềm năng claim 360 Solana farm | IDO Round 2 sắp list Binance,Coinbase",
+                "description": "Kênh chuyên rewiew các app kiếm tiền online uy tín nhất hiện nay, luôn luôn tìm các kèo airdrop mới nhất và uy tín nhất để anh ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X-EItWsCcrA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X-EItWsCcrA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X-EItWsCcrA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ThiệnVăn official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-27T23:23:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rlXF8B69U4ykTp9pFR9YQs8PUNw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8N20TMBjlLg"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-27T14:27:45Z",
+                "channelId": "UCrJ7Xusq_fUXFIk7LLZRsfQ",
+                "title": "Hướng đã tham gia IDO siêu dự án Solice trên Solanium",
+                "description": "IDO Solice nền tảng Solanium. Loại: Trò chơi, NFT, Metaverse Chuỗi khối: Solana Thời gian mở cửa: Ngày 29 tháng 12 năm ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8N20TMBjlLg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8N20TMBjlLg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8N20TMBjlLg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bình Thường",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-27T14:27:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kzPPpVl7vETs30Ec5M5HK1M1GJ0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3JtSJwyPT2E"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-27T12:15:03Z",
+                "channelId": "UCPV0rsqy62eM2oSDPxKSSdQ",
+                "title": "Lợi Nhuận Kickstarter Nhận Token IDO Miển Phí X5 X10 Ngon Thế Nào ???",
+                "description": "Link Sàn Mexc; https://bom.so/bTSHpU ❤video Kyc; https://www.youtube.com/watch?v=RSpIAH_q8eE&t=0s ❤Launchpad IDO ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3JtSJwyPT2E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3JtSJwyPT2E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3JtSJwyPT2E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BTC-SATOSHI",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-27T12:15:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DRqDopYcA0wsbONkwKWcJGxSfQU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4uImGWuJCyw"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-27T11:42:02Z",
+                "channelId": "UCnrTLaWD_89d8WGGU8MQPFA",
+                "title": "🔥HOT: Đăng Ký Whitelist Dự Án RISE of Defenders - IDO Trên TrustPad.",
+                "description": "RISE_of_Defenders #Airdrop #Whitelist HOT: Đăng Ký Whitelist Dự Án RISE of Defenders - IDO Trên TrustPad. Tham Gia ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4uImGWuJCyw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4uImGWuJCyw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4uImGWuJCyw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NEW AIRDROP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-27T11:42:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cjge_lrFqzguUL9RndDWYUOYuTo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Nv12RicfgCI"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-27T11:27:13Z",
+                "channelId": "UCxxyZJBw5E0G4mlQfiQxIBg",
+                "title": "Hướng dẫn tham gia IDO The Parallel trên nền tảng KrystalGo",
+                "description": "Tham gia BIG EVENT Theparallel x Seedify : https://wn.nr/vVbJcn Các sự kiện Airdrop Quyết HOM đang tham gia, anh em có ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Nv12RicfgCI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Nv12RicfgCI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Nv12RicfgCI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Quyết HOM",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-27T11:27:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JLDwoXiQ7nyHo95ImqTYXE4ezrY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yGOVWH4DNq0"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-27T10:59:26Z",
+                "channelId": "UC6pjqaFl8tLMUjeDpaaBMtQ",
+                "title": "💸THAM GIA NGAY CHƯƠNG TRÌNH AIRDROP VỚI TỔNG GIẢI THƯỞNG HƠN 1 TRIỆU ĐÔ || FIGHT OF THE AGES",
+                "description": "Anh em truy cập link dưới đây để đăng kí tham gia Airdrop: https://wn.nr/6VKTEq THAM GIA NGAY CỘNG ĐỒNG ĐẦU TƯ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yGOVWH4DNq0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yGOVWH4DNq0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yGOVWH4DNq0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nhẫn Giả IDO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-27T10:59:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AHJeXf6z6N4eSuCgyyJEMCMi5SI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mlRqMF01hlw"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-27T10:40:48Z",
+                "channelId": "UCqagxqnDZOJ_5BeDAIW1jqw",
+                "title": "Hướng dẫn tham gia mua IDO trên CeloLaunch mạng Celo - New Crypto Currencies",
+                "description": "Celo #CeloLaunch #IDO ✍ Để tham gia mua IDO round 1 trên CeloLaunch (23:00 tối nay 27/12/2021), anh em phải tham gia ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mlRqMF01hlw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mlRqMF01hlw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mlRqMF01hlw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "New Crypto Currencies",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-27T10:40:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JA5FcPu2AKW8-MGouKZMa34zD8M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TnxY3TEc0ow"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-27T05:44:43Z",
+                "channelId": "UCSfDCapQVL4iCQq9Oc5dTuw",
+                "title": "Hướng dẫn tham gia IDO Whitelist Metastrike- kèo x1000",
+                "description": "Link tham gia IDO:https://wn.nr/kTmqy7 Link nhóm săn kèo: https://t.me/+Y366EGKz6ihmNzFl.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TnxY3TEc0ow/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TnxY3TEc0ow/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TnxY3TEc0ow/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crypto Money",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-27T05:44:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "g2fKmjFncKDXUW0dOvryGBhsTmg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1uFOMAmreQQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-26T09:30:51Z",
+                "channelId": "UCxAPKN6RdTAYXqYsu-XhL6A",
+                "title": "Đăng Ký Whitelist Mua IDO Vòng Private Dự Án EverVault Hạn 30 12 2021",
+                "description": "Link đăng ký Whitelist tham gia IDO dự án EverVault: https://wn.nr/KBysgD Social Cakes Community: Website: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1uFOMAmreQQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1uFOMAmreQQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1uFOMAmreQQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cakes Ventures",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-26T09:30:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "At8PGaDhjexhYGU39yu5LRtTW5c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GSYX905wprg"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-25T16:37:39Z",
+                "channelId": "UCiOmB2D5Gc0DcBNs5uKDPMw",
+                "title": "IDO | Hướng dẫn tham gia tranh suất mua IDO dự án Luna Rush. Dự án rất tiềm năng",
+                "description": "Link BSCStation: https://bit.ly/3E6gNbK Link BinStarter: https://wn.nr/mGgf8y Link dự án: https://lunarush.io/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GSYX905wprg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GSYX905wprg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GSYX905wprg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cong Luc Official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-25T16:37:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fjm3eJmlYTJGN9lOAKrfa-3F3N0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "h3TJyAECl6A"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-25T12:30:19Z",
+                "channelId": "UC1hq0Q1LRpvBK9yhl0GiExg",
+                "title": "The Parallel - Super Listing IDO Trên Rada, KrystalGO &amp; Starpad",
+                "description": "The Parallel - Super Listing IDO Trên Rada, KrystalGO & Starpad The Parallel là một vũ trụ thế giới ảo metaverse với hệ thống trò ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h3TJyAECl6A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h3TJyAECl6A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h3TJyAECl6A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BENG BENG Gaming",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-25T12:30:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TViLUleUL3S-ItajMDgSw_KFsZk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Q6sfWt3OwbU"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-25T10:19:56Z",
+                "channelId": "UCPV0rsqy62eM2oSDPxKSSdQ",
+                "title": "IDO Đầu Tiên Trên Sàn Defi Marsecosystem Token PARK Nft Game",
+                "description": "Link Sàn; https://app.marsecosystem.com/iho ❤Launchpad IDO Trên Sàn Bybit Cực Ngon - Hướng Dẫn Tham Gia Từ a-z ❤CHÚC ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q6sfWt3OwbU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q6sfWt3OwbU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q6sfWt3OwbU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BTC-SATOSHI",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-25T10:19:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tyasUKlYkTxq2u8kMb2860GWEUc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6zyWXdvvBKE"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-24T10:51:12Z",
+                "channelId": "UCxkk75gdv6Le7TiTVWAGmLw",
+                "title": "Cơ Hội X10 Hướng Dẫn Tham Gia  IDO WL Dự án Tiarameta về sàn Marketplace metaverse",
+                "description": "Cơ Hội X10 Hướng Dẫn Tham Gia IDO WL Dự án Tiarameta về sàn Marketplace metaverse Link: https://t.me/freecoin68/1560 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6zyWXdvvBKE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6zyWXdvvBKE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6zyWXdvvBKE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tiểu Sư Phụ Official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-24T10:51:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5QIjIozo2PACZxpyXqNM2JuwZF8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ge7ZhF989o8"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-24T03:50:44Z",
+                "channelId": "UCgF3NYQp2ebhoREtlvIveSw",
+                "title": "AVALAUNCH: Hướng dẫn tham gia mua IDO trên AVALAUNCH từ A-Z cho người mới || IDO CoinTV",
+                "description": "Xin chào anh em!     Clip hôm nay sẽ chia sẻ anh em cách tham gia IDO trên AVALAUNCH, một nền tảng bán IDO đang cực kỳ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ge7ZhF989o8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ge7ZhF989o8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ge7ZhF989o8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CoinTV Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-24T03:50:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SzyegTHY4gJMe-EvgOPgphLi2-g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ov06CtqZjyg"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-23T14:56:21Z",
+                "channelId": "UC3Fieh5doNXaf4kJ23tayMA",
+                "title": "AIRDROP CHẮC CHẮN NHẬN 7 000 000 DSE - THAM GIA IDO DESPACE | TIPS CRYPTO",
+                "description": "Link tham gia Airdrop: https://t.me/DeSpaceDSEAirdrop_Bot?start=r00193677660 Link tham gia IDO: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ov06CtqZjyg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ov06CtqZjyg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ov06CtqZjyg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TIPS CRYPTO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-23T14:56:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hyBxTADwrJmSM7vMmUlchzfJoE4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9x6IMzUrtMM"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-22T10:00:10Z",
+                "channelId": "UCpASxEm3pg28j0mNJ7ZB5NQ",
+                "title": "Tham Gia IDO ASTROVERSE Trên BSCStation - Hướng Dẫn IDO ASTROVERSE",
+                "description": "Link Tham Gia: https://bitly.com.vn/r11uxq Ngày Kết Thúc: 3PM, 26th December 2021 (UTC) Công Bố Whitelist : 3PM, 27th ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9x6IMzUrtMM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9x6IMzUrtMM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9x6IMzUrtMM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crypto Team",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-22T10:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XQXLUwnT3aQp6JLBaMjep4Hll_w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6qy5ffnUAw4"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-22T07:15:43Z",
+                "channelId": "UCpASxEm3pg28j0mNJ7ZB5NQ",
+                "title": "Nhược Điểm Khi Tham Gia IDO - Tham Gia IDO Có Lừa Đảo ???",
+                "description": "Link đăng ký Binance https://accounts.binance.com/vi/register?ref=354021442 Link đăng ký Huobi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6qy5ffnUAw4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6qy5ffnUAw4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6qy5ffnUAw4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crypto Team",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-22T07:15:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7sNzt27rLNgHRr404xmE2jPoqWs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dFztMKL5F_I"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-21T08:07:29Z",
+                "channelId": "UC00glsLDQlGQ9LkUF5vwMfQ",
+                "title": "Hướng dẫn đăng ký whitelist để mua IDO dự án gamefi + metaverse The Parallel",
+                "description": "Link đăng ký IDO The Parallel trên RADA Launchverse: https://rada.network/vi/launchverse/parallel/community Cách kiếm thêm ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dFztMKL5F_I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dFztMKL5F_I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dFztMKL5F_I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Danchoicoin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-21T08:07:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vzme2Z0th8XWf9yENyJt7J9RFYk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DyXgEZKTlnU"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-21T01:31:23Z",
+                "channelId": "UC2fNzNOjCvOaqW-n5Q58eIQ",
+                "title": "Hướng Dẫn Tham Gia Mua CeloLauch (cLA) | Kèo IDO đầu Tiên Trong Hệ Sinh Thái CELO - SaiGon TradeCoin",
+                "description": "CELOLAUNCH là defi ra mắt đầu tiên trên mạng CELO. Tầm nhìn của CeloLaunch là xây dựng một bệ phóng tự động trên CELO ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DyXgEZKTlnU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DyXgEZKTlnU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DyXgEZKTlnU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SaigonTradeCoin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-21T01:31:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Zubddm2l2Du8Lv_aS7zrO_8Ut-E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HcQWIcVq5xg"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-20T16:03:58Z",
+                "channelId": "UCzWV5NIruRd4PR96OGgUrQA",
+                "title": "#10. NFT Wingswap có quyền tham gia IDO (làm ngay)",
+                "description": "10. NFT Wingswap có quyền tham gia IDO (làm ngay) Cơ hội mua NFT Wingswap tham gia các vòng IDO số lượng có hạn - Link ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HcQWIcVq5xg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HcQWIcVq5xg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HcQWIcVq5xg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Airdrop Box",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-20T16:03:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "h7-c3AW3N4heUu11ogKh-w1J44s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gNQ9CtrUq6I"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-20T15:05:01Z",
+                "channelId": "UCXmmOexpXvU2vk4MexkcGqA",
+                "title": "The Parallel - Hướng dẫn tham gia IDO dự án The Parallel trên RadaNetwork CHI TIẾT NHẤT",
+                "description": "The Parallel - Hướng dẫn tham gia IDO dự án The Parallel trên RadaNetwork CHI TIẾT NHẤT ▻ The Parallel là một vũ trụ thế ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gNQ9CtrUq6I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gNQ9CtrUq6I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gNQ9CtrUq6I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Trần Quyền Linh",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-20T15:05:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jvWVaNULYC5xRvlRlLV95rXuF-Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kjaug-hQGwU"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-19T15:28:45Z",
+                "channelId": "UCc81de3KhHOrZCevtSmPDxg",
+                "title": "Giới Thiệu Về Bệ Phóng Enjinstarter Giúp Bạn Săn IDO X5, X10",
+                "description": "Đăng ký các sàn giao dịch tập trung: - Đăng ký Sàn giao dịch Binance nhận 10% fee giao dịch: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kjaug-hQGwU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kjaug-hQGwU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kjaug-hQGwU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nguyễn Lê Huy- Mr.Hope",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-19T15:28:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "et6w7hkXM-y9vCLCOEGgEdW73a8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1QQcG8gdApA"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-19T06:45:01Z",
+                "channelId": "UCxxyZJBw5E0G4mlQfiQxIBg",
+                "title": "Hướng dẫn tham gia IDO The Parallel trên nền tảng LaunchVerse",
+                "description": "RADA Launchverse là nền tảng IDO các dự án GameFi và Metaverse của cộng đồng RADA. The parallel là dự án siêu phẩm đầu ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1QQcG8gdApA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1QQcG8gdApA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1QQcG8gdApA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Quyết HOM",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-19T06:45:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zn1O5lRfMregtBu64hqTWs-eFlU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TQZcC5rQIhY"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-19T02:00:14Z",
+                "channelId": "UCMJAl8HvfkZgyyR38g2KbFw",
+                "title": "Hướng dẫn tham gia IDO F2NFT - Ftribe Fighter Cùng Hybrid Research",
+                "description": "Hướng dẫn tham gia IDO F2NFT - Ftribe Fighter Cùng Hybrid Research Theo dõi HYBRID RESEARCH qua các kênh sau: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TQZcC5rQIhY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TQZcC5rQIhY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TQZcC5rQIhY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hybrid Research",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-19T02:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EqPnwpeaLiQLpiyzgYGC_WX54c8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eHR7uWFim7c"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-18T21:16:57Z",
+                "channelId": "UCdu_OJ-I69CTBYBYK2x-HNw",
+                "title": "Hướng dẫn tham gia IDO- COMBOY SNAKE IDO WHITELIST, Game NFT - Play to Earn",
+                "description": "Hướng dẫn tham gia IDO- COMBOY SNAKE IDO WHITELIST, 30000$ đang đợi các bạn, Game NFT - Play to Earn Link tham gia: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eHR7uWFim7c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eHR7uWFim7c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eHR7uWFim7c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Quyền Tưởng Văn",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-18T21:16:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1rOh2X1hbv6lDipgE7LUGM5D_YQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7nZ8MbLdJpA"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-18T11:16:03Z",
+                "channelId": "UCBIs0WuzdfCbh5HuFA0Qv-g",
+                "title": "HƯỚNG DẪN THAM GIA IDO COWBOY SNAKE TRÊN BSC STATION | INFI CAPITAL",
+                "description": "Hướng Dẫn Tham Gia Whitelist IDO Community Trên BSCStation Link đăng ký: https://bitly.com.vn/q0fn1b Website: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7nZ8MbLdJpA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7nZ8MbLdJpA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7nZ8MbLdJpA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "INFI CAPITAL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-18T11:16:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ejv5NQqN9h_Q8fumyulGKJbFbCg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "juge63ew7LE"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-18T05:35:48Z",
+                "channelId": "UCgF3NYQp2ebhoREtlvIveSw",
+                "title": "SOLANIUM: Hướng dẫn tham gia mua IDO trên SOLANIUM từ A-Z cho người mới || IDO CoinTV",
+                "description": "Xin chào anh em!     Clip hôm nay sẽ chia sẻ anh em cách tham gia IDO trên SOLANIUM:, một nền tảng bán IDO đang cực kỳ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/juge63ew7LE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/juge63ew7LE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/juge63ew7LE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CoinTV Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-18T05:35:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-qmAyRExtNMSMb6E_WTMa0f4_V4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HSuwWE2sOXc"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-17T10:56:49Z",
+                "channelId": "UCcAxet6-AEXG_j_MtfDEprA",
+                "title": "Tham Gia Whitelist mua IDO CeloLaunch nền tảng LaunchPad hệ Celo",
+                "description": "Video : Tham Gia Whitelist mua IDO CeloLaunch nền tảng LaunchPad hệ Celo. Vào Link Tham Gia IDO : https://wn.nr/vVRC2X ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HSuwWE2sOXc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HSuwWE2sOXc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HSuwWE2sOXc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thú Vui Cuộc Sống",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-17T10:56:49Z"
+            }
+        }
+    ]
+}
