@@ -74,6 +74,6 @@ setInterval(async () => {
 
     i = i + 1;
     console.log(`call function : ${i}`);
-}, 1000 * 10);
+}, 1000 * 60 * 60);
 
 module.exports = null;
