@@ -3,7 +3,7 @@ const fs = require("fs");
 const { removeAccents } = require("../utils/utils");
 function fetchSearchData(q) {
     console.log(`fetching data for ${q}`);
-    // https://www.googleapis.com/youtube/v3/search?part=snippet&q="kèo ido"&type=video&key=AIzaSyAo2FP1hBxLWtj_EUKncH9YSUWWKcUgXFg&order=date&maxResults=50
+    // https://www.googleapis.com/youtube/v3/search?part=snippet&q="kèo ido"&type=video&key=&order=date&maxResults=50
     const url = `https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&key=${process.env.YOUTUBE_API_KEY}&order=date&maxResults=5`;
     return new Promise((resolve, reject) => {
         axios
