@@ -1,52 +1,122 @@
 // ramdom data
 const arr1 = [
-    {
-        id: "39df49",
-        title: "kuowng dan kdo",
-    },
-    {
-        id: "3df950",
-        title: "fsdkfdfgdfg",
-    },
-    {
-        id: "395sdf1",
-        title: "sdfsdfsd",
-    },
+    "9En5ldjrhvg",
+    "-TVlTduEnro",
+    "613yhNWSYaE",
+    "7sjYI-LJXQw",
+    "hBBGpqny5vk",
+    "4Qr_KS4a-GA",
+    "Ko3Y04uZOFM",
+    "iN6w64_8NNc",
+    "lkvumUQw60g",
+    "XF3xeQUHczI",
+    "TY6OMsq-T0Q",
+    "yX_QFJHw-Ok",
+    "dw4fo6Acn-I",
+    "iNr3r_Ln-Rk",
+    "qAMQx5rCuu8",
+    "SsqlkMFKojI",
+    "7OezAJnRpJs",
+    "62Nn1lW2hhA",
+    "tkvPobaS6bU",
+    "8N20TMBjlLg",
+    "Nv12RicfgCI",
+    "TnxY3TEc0ow",
+    "6zyWXdvvBKE",
+    "_GGv9dI429Q",
+    "ge7ZhF989o8",
+    "Ov06CtqZjyg",
+    "r5MV0-zwjiY",
+    "9x6IMzUrtMM",
+    "6qy5ffnUAw4",
+    "HcQWIcVq5xg",
+    "gNQ9CtrUq6I",
+    "j4OIfVAQgd4",
+    "1QQcG8gdApA",
+    "DdJ1Y4qBU8Y",
+    "TQZcC5rQIhY",
+    "eHR7uWFim7c",
+    "7nZ8MbLdJpA",
+    "amnmQjF4Klc",
+    "068KThJGIPg",
+    "Uxx6UPC4HNI",
+    "GgsyOanG5BI",
+    "sixypF0kyZc",
+    "cI16_IwKgEw",
+    "f6hgU_Hb_-Q",
+    "I1GYkjgQQ_w",
+    "XkzVqiKjxsw",
 ];
 const arr2 = [
-    {
-        id: "39dsdfsdf49",
-        title: "baos oke ",
-    },
-    {
-        id: "39dsdfsd2342f49",
-        title: "baos okedzxfsdafsdf ",
-    },
-    {
-        id: "39df49",
-        title: "kuowng dan kdo",
-    },
-    {
-        id: "3df950",
-        title: "fsdkfdfgdfg",
-    },
-    {
-        id: "395sdf1",
-        title: "sdfsdfsd",
-    },
+    "zDHuTPIURoI",
+    "_6Dq7pHgxZI",
+    "gWWx7hQfyJU",
+    "9En5ldjrhvg",
+    "-TVlTduEnro",
+    "613yhNWSYaE",
+    "7sjYI-LJXQw",
+    "hBBGpqny5vk",
+    "4Qr_KS4a-GA",
+    "Ko3Y04uZOFM",
+    "iN6w64_8NNc",
+    "lkvumUQw60g",
+    "XF3xeQUHczI",
+    "TY6OMsq-T0Q",
+    "yX_QFJHw-Ok",
+    "dw4fo6Acn-I",
+    "iNr3r_Ln-Rk",
+    "qAMQx5rCuu8",
+    "SsqlkMFKojI",
+    "7OezAJnRpJs",
+    "62Nn1lW2hhA",
+    "tkvPobaS6bU",
+    "8N20TMBjlLg",
+    "Nv12RicfgCI",
+    "TnxY3TEc0ow",
+    "6zyWXdvvBKE",
+    "_GGv9dI429Q",
+    "ge7ZhF989o8",
+    "Ov06CtqZjyg",
+    "r5MV0-zwjiY",
+    "9x6IMzUrtMM",
+    "6qy5ffnUAw4",
+    "HcQWIcVq5xg",
+    "gNQ9CtrUq6I",
+    "j4OIfVAQgd4",
+    "1QQcG8gdApA",
+    "DdJ1Y4qBU8Y",
+    "TQZcC5rQIhY",
+    "eHR7uWFim7c",
+    "7nZ8MbLdJpA",
+    "amnmQjF4Klc",
+    "068KThJGIPg",
+    "Uxx6UPC4HNI",
+    "GgsyOanG5BI",
+    "sixypF0kyZc",
+    "cI16_IwKgEw",
+    "f6hgU_Hb_-Q",
+    "I1GYkjgQQ_w",
+    "XkzVqiKjxsw",
+    "H6IB2RLuye0",
 ];
 // compare arr1 arr2
 const compare = (arr1, arr2) => {
     let result = [];
     arr2.forEach((item) => {
-        if (!arr1.find((item2) => item2.id === item.id)) {
+        if (!arr1.find((item2) => item2 === item)) {
             result.push(item);
         } else {
             return;
         }
         // console.log("loop");
     });
-    return result;
+    return result.reverse();
 };
 const result = compare(arr1, arr2);
-console.log(result.reverse());
+console.log(result);
+const arr1 = ["a", "b", "c", "d", "e"];
+const arr2 = ["*", "a", "b", "c", "d"];
+const arr3 = ["*", "**", "a", "b", "c"];
+// find the difference between arr1 and arr2, when loop find the similar item stop loop
+const result = arr3.filter((item) => !arr1.find((item1) => item1 === item));
+console.log(result);
