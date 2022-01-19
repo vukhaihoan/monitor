@@ -4,7 +4,8 @@ const { removeAccents } = require("../utils/utils");
 function fetchSearchData(q) {
     console.log(`fetching data for ${q}`);
     // https://www.googleapis.com/youtube/v3/search?part=snippet&q="kèo ido"&type=video&key=&order=date&maxResults=50
-    const url = `https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&key=${process.env.YOUTUBE_API_KEY}&order=date&maxResults=5`;
+    const searchPraram = q.split(" ").join("+");
+    const url = `https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&key=${process.env.YOUTUBE_API_KEY}&order=date&maxResults=25`;
     return new Promise((resolve, reject) => {
         axios
             .get(url, {
@@ -14,7 +15,7 @@ function fetchSearchData(q) {
                         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36",
                 },
                 params: {
-                    q: `"${q}"`,
+                    q: `${searchPraram}`,
                 },
             })
             .then((res) => {
