@@ -63,15 +63,15 @@ function fetchDetailsData(id) {
 const compareArr = (arr1, arr2) => {
     // arr1 : old data
     // arr2 : new data
-    // let result = [];
-    // arr2.forEach((item) => {
-    //     if (!arr1.find((item2) => item2 === item)) {
-    //         result.push(item);
-    //     } else {
-    //         return;
-    //     }
-    // });
-    const result = arr2.filter((item) => !arr1.find((item1) => item1 === item));
+    let result = [];
+    for (let i = 0; i < arr2.length; i++) {
+        const item = arr2[i];
+        if (!arr1.find((item2) => item2 === item)) {
+            result.push(item);
+        } else {
+            break;
+        }
+    }
     return result.reverse();
 };
 async function compareData(keyword) {
@@ -81,6 +81,7 @@ async function compareData(keyword) {
     const response = await fetchSearchData(keyword);
     const newDataIdlist = response.items.map((item) => item.id.videoId);
     const result = compareArr(preDataIdlist, newDataIdlist);
+    console.log(`${keyword} has ${result.length} new videos :`);
     console.log(result);
     const dataSend = await Promise.all(
         result.map(async (id) => {
@@ -93,7 +94,11 @@ async function compareData(keyword) {
 async function multiFetchData(keyword) {
     const dataSend = await Promise.all(
         keyword.map(async (key) => {
-            return await compareData(key);
+            const data = await compareData(key);
+            return {
+                keyword: key,
+                data,
+            };
         })
     );
 

@@ -114,9 +114,25 @@ const compare = (arr1, arr2) => {
 };
 const result = compare(arr1, arr2);
 console.log(result);
-const arr1 = ["a", "b", "c", "d", "e"];
-const arr2 = ["*", "a", "b", "c", "d"];
-const arr3 = ["*", "**", "a", "b", "c"];
+const arr11 = ["a", "b", "c", "d", "e"];
+const arr21 = ["*", "a", "b", "c", "d"];
+const arr31 = ["*", "**", "a", "b", "c", "fsdjflsd"];
 // find the difference between arr1 and arr2, when loop find the similar item stop loop
-const result = arr3.filter((item) => !arr1.find((item1) => item1 === item));
-console.log(result);
+const result22 = arr31.filter((item) => !arr1.find((item1) => item1 === item));
+// console.log(result);
+const compareArr = (arr1, arr2) => {
+    // arr1 : old data
+    // arr2 : new data
+    let result = [];
+    for (let i = 0; i < arr2.length; i++) {
+        const item = arr2[i];
+        if (!arr1.find((item2) => item2 === item)) {
+            result.push(item);
+        } else {
+            break;
+        }
+    }
+    return result.reverse();
+};
+const result2 = compareArr(arr11, arr31);
+console.log(result2);

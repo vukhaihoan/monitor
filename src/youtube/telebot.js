@@ -97,17 +97,20 @@ const { sendData } = require("./fetchData");
 let i = 0;
 setInterval(async () => {
     const data = await sendData(listkeywords);
-    data.forEach((element) => {
+    data.forEach((obj) => {
+        const key = obj.keyword;
+        const element = obj.data;
         if (element.length === 0) {
-            console.log("Array is empty! - no new data");
+            console.log(`${key} : Array is empty! - no new data `);
         } else {
             element.forEach(async (miniElement) => {
                 const chatId = process.env.CHAT_ID;
                 const title = miniElement.items[0].snippet.title;
                 const description = miniElement.items[0].snippet.description;
-                const links = description.match(
-                    /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)/g
-                );
+                const links =
+                    description.match(
+                        /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)/g
+                    ) || [];
                 const url = `https://www.youtube.com/watch?v=${miniElement.items[0].id}`;
                 const removeLink = [];
                 links.forEach((element) => {
@@ -120,14 +123,19 @@ setInterval(async () => {
                 const newLinks = links.filter((element) => {
                     return !removeLink.includes(element);
                 });
-                console.log(newLinks);
+                // console.log(`${key} : list of links: `);
+                // console.log(newLinks);
                 var text = "";
-                for (var i = 0; i < links.length; i++) {
+                for (var i = 0; i < newLinks.length; i++) {
                     text += links[i] + "\n"; // or however you want to format it
                 }
-                console.log(`send data: ${url}`);
+                console.log(`${key} send data: ${url}`);
                 // bot.sendMessage(chatId, `${description}`);
-                bot.sendMessage(chatId, `${url} \n<u>List link</u> : \n${text}`, { parse_mode: "HTML" });
+                bot.sendMessage(
+                    chatId,
+                    `<u>Key word</u><b> : ${key}</b>\nYoutube Link:${url} \n<u>List link</u> : \n${text}`,
+                    { parse_mode: "HTML" }
+                );
                 await delay(3000);
             });
         }
