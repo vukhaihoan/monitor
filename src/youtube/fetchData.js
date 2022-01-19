@@ -1,19 +1,33 @@
 const axios = require("../utils/axios");
 const fs = require("fs");
+const { removeAccents } = require("../utils/utils");
 function fetchSearchData(q) {
-    // https://www.googleapis.com/youtube/v3/search?part=snippet&q="tham gia ido"&type=video&order=date
-    const url = `https://www.googleapis.com/youtube/v3/search?part=snippet&&type=video&order=date&maxResults=50&q="${q}"&key=${process.env.YOUTUBE_API_KEY}`;
+    console.log(`fetching data for ${q}`);
+    // https://www.googleapis.com/youtube/v3/search?part=snippet&q="kèo ido"&type=video&key=AIzaSyAo2FP1hBxLWtj_EUKncH9YSUWWKcUgXFg&order=date&maxResults=50
+    const url = `https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&key=${process.env.YOUTUBE_API_KEY}&order=date&maxResults=5`;
     return new Promise((resolve, reject) => {
         axios
-            .get(url)
+            .get(url, {
+                headers: {
+                    "Content-Type": "application/json;charset=utf-8",
+                    "user-agent":
+                        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36",
+                },
+                params: {
+                    q: `"${q}"`,
+                },
+            })
             .then((res) => {
                 resolve(res.data);
+                // resolve(res);
             })
             .catch((err) => {
                 if (err.response.status !== 200) {
                     console.log(err.response.data);
                     throw new Error(`API call failed with status code: ${err.response.status} after 5 retry attempts`);
                 }
+                // console.log(err);
+                // reject(err);
             });
     });
 }
@@ -22,7 +36,13 @@ function fetchDetailsData(id) {
     const url = `https://www.googleapis.com/youtube/v3/videos?part=snippet&id=${id}&key=${process.env.YOUTUBE_API_KEY}`;
     return new Promise((resolve, reject) => {
         axios
-            .get(url)
+            .get(url, {
+                headers: {
+                    "Content-Type": "application/json;charset=utf-8",
+                    "user-agent":
+                        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36",
+                },
+            })
             .then((res) => {
                 resolve(res.data);
             })
@@ -35,36 +55,38 @@ function fetchDetailsData(id) {
     });
 }
 
-const preData = require("./data/searchData.json");
+// const preData = require("./data/searchData.json");
 
 // const response = await fetchDetailsData("_6Dq7pHgxZI");
 // fs.writeFileSync("./data/detailsData.json", JSON.stringify(respost));
 const compareArr = (arr1, arr2) => {
     // arr1 : old data
     // arr2 : new data
-    let result = [];
-    arr2.forEach((item) => {
-        if (!arr1.find((item2) => item2.id === item.id)) {
-            result.push(item);
-        } else {
-            return;
-        }
-    });
+    // let result = [];
+    // arr2.forEach((item) => {
+    //     if (!arr1.find((item2) => item2 === item)) {
+    //         result.push(item);
+    //     } else {
+    //         return;
+    //     }
+    // });
+    const result = arr2.filter((item) => !arr1.find((item1) => item1 === item));
     return result.reverse();
 };
 async function compareData(keyword) {
+    const name = removeAccents(keyword).split(" ").join("_");
+    const preData = JSON.parse(fs.readFileSync(`./data/searchData/${name}.json`));
     const preDataIdlist = preData.items.map((item) => item.id.videoId);
-
     const response = await fetchSearchData(keyword);
     const newDataIdlist = response.items.map((item) => item.id.videoId);
     const result = compareArr(preDataIdlist, newDataIdlist);
-
+    console.log(result);
     const dataSend = await Promise.all(
         result.map(async (id) => {
             return await fetchDetailsData(id);
         })
     );
-    fs.writeFileSync("./data/searchData.json", JSON.stringify(response));
+    fs.writeFileSync(`./data/searchData/${name}.json`, JSON.stringify(response));
     return dataSend;
 }
 async function multiFetchData(keyword) {
