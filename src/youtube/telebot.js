@@ -94,53 +94,55 @@ const { sendData } = require("./fetchData");
 
 // send data to telegram every 1 hour
 
-let i = 0;
+function listLink(description) {
+    const links =
+        description.match(
+            /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)/g
+        ) || [];
+    const removeLink = [];
+    links.forEach((element) => {
+        bannedLinkKeywords.forEach((keyword) => {
+            if (element.includes(keyword)) {
+                removeLink.push(element);
+            }
+        });
+    });
+    const newLinks = links.filter((element) => {
+        return !removeLink.includes(element);
+    });
+    // console.log(`${key} : list of links: `);
+    // console.log(newLinks);
+    return newLinks;
+}
+var i = 0;
 setInterval(async () => {
     const data = await sendData(listkeywords);
-    data.forEach((obj) => {
-        const key = obj.keyword;
-        const element = obj.data;
-        if (element.length === 0) {
-            console.log(`${key} : Array is empty! - no new data `);
-        } else {
-            element.forEach(async (miniElement) => {
-                const chatId = process.env.CHAT_ID;
-                const title = miniElement.items[0].snippet.title;
-                const description = miniElement.items[0].snippet.description;
-                const links =
-                    description.match(
-                        /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)/g
-                    ) || [];
-                const url = `https://www.youtube.com/watch?v=${miniElement.items[0].id}`;
-                const removeLink = [];
-                links.forEach((element) => {
-                    bannedLinkKeywords.forEach((keyword) => {
-                        if (element.includes(keyword)) {
-                            removeLink.push(element);
-                        }
-                    });
-                });
-                const newLinks = links.filter((element) => {
-                    return !removeLink.includes(element);
-                });
-                // console.log(`${key} : list of links: `);
-                // console.log(newLinks);
-                var text = "";
-                for (var i = 0; i < newLinks.length; i++) {
-                    text += links[i] + "\n"; // or however you want to format it
-                }
-                console.log(`${key} send data: ${url}`);
-                // bot.sendMessage(chatId, `${description}`);
-                bot.sendMessage(
-                    chatId,
-                    `<u>Key word</u><b> : ${key}</b>\nYoutube Link:${url} \n<u>List link</u> : \n${text}`,
-                    { parse_mode: "HTML" }
-                );
-                await delay(3000);
-            });
+    data.forEach(async (obj) => {
+        const { videoId, keywords, data } = obj;
+        const chatId = process.env.CHAT_ID;
+        // const title = miniElement.items[0].snippet.title;
+        const description = data.items[0].snippet.description;
+        const listbannedlink = listLink(description);
+        let textBannedLink = "";
+        for (var i = 0; i < listbannedlink.length; i++) {
+            textBannedLink += listbannedlink[i] + "\n"; // or however you want to format it
         }
+        let textKeyWord = "";
+        for (var i = 0; i < keywords.length; i++) {
+            textKeyWord += keywords[i] + "\n"; // or however you want to format it
+        }
+        const url = `https://www.youtube.com/watch?v=${videoId}`;
+        console.log(`send data: ${url} with keyword:`);
+        console.log(keywords);
+        bot.sendMessage(
+            chatId,
+            `<u>Key word : </u>\n<b>${textKeyWord}</b><u>Youtube Link : </u>\n${url} \n<u>List link</u> : \n${textBannedLink}`,
+            {
+                parse_mode: "HTML",
+            }
+        );
+        await delay(3000);
     });
-
     i = i + 1;
     console.log(`call function : ${i}`);
 }, 1000 * 60 * 60);

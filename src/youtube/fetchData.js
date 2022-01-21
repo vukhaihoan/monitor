@@ -74,6 +74,7 @@ const compareArr = (arr1, arr2) => {
     }
     return result.reverse();
 };
+
 async function compareData(keyword) {
     const name = removeAccents(keyword).split(" ").join("_");
     const preData = JSON.parse(fs.readFileSync(`./data/searchData/${name}.json`));
@@ -83,25 +84,50 @@ async function compareData(keyword) {
     const result = compareArr(preDataIdlist, newDataIdlist);
     console.log(`${keyword} has ${result.length} new videos :`);
     console.log(result);
-    const dataSend = await Promise.all(
-        result.map(async (id) => {
-            return await fetchDetailsData(id);
-        })
-    );
     fs.writeFileSync(`./data/searchData/${name}.json`, JSON.stringify(response));
-    return dataSend;
+    return result;
+}
+function changeFormatData(arr1) {
+    const arr2 = [];
+    arr1.forEach((element) => {
+        element.data.forEach((id) => {
+            // check if id is exist in arr2
+            const index = arr2.findIndex((item) => {
+                return item.id === id;
+            });
+            if (index === -1) {
+                arr2.push({
+                    id,
+                    keyword: [element.key],
+                });
+            } else {
+                arr2[index].keyword.push(element.key);
+            }
+        });
+    });
+    return arr2;
 }
 async function multiFetchData(keyword) {
-    const dataSend = await Promise.all(
+    const arr1 = await Promise.all(
         keyword.map(async (key) => {
             const data = await compareData(key);
             return {
-                keyword: key,
+                key,
                 data,
             };
         })
     );
-
+    const arr2 = changeFormatData(arr1);
+    const dataSend = Promise.all(
+        arr2.map(async (item) => {
+            const response = await fetchDetailsData(item.id);
+            return {
+                videoId: item.id,
+                keywords: item.keyword,
+                data: response,
+            };
+        })
+    );
     return dataSend;
 }
 module.exports = {
